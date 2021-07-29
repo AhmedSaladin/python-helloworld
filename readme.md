@@ -1,0 +1,1 @@
+This repo is about CI Fundamentals exercise from SUSE Cloud Native Fundamentals Scholarship Program
